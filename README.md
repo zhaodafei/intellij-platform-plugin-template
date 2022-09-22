@@ -1,3 +1,5 @@
+#Intellij IDEA 2021.3插件开发模板 使用jdk11
+
 # IntelliJ Platform Plugin Template
 
 [![official JetBrains project](https://jb.gg/badges/official.svg)][jb:confluence-on-gh]
